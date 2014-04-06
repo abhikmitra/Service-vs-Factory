@@ -16,7 +16,7 @@ This project primarily answers the following questions
   - In what cases can only service be used or only factory be used.
 
 
-To read the tutorial that I have on my blog [1]:
+To read the tutorial that I have on my [blog] [1]:
  
  
  
